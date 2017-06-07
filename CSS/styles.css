@@ -1,3 +1,7 @@
-#coalminer, #human {
+#coalminer, #human, #cornfarm {
   display: none;
+}
+
+h1 {
+  color: pink;
 }
